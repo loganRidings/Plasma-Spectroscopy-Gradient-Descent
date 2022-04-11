@@ -30,7 +30,7 @@ class lineID:
         """Read the text file in and make the dataframe to store and access available
         lines from."""
         # pathin = input("Filepath including extension: ")
-        pathin = r"\\opdata2\Logan\Plasma Diagnostics\References\OFeNHlines.txt"
+        pathin = "OFeNHlines.txt"
         pathin = pathin.replace("\"","")
         lines = []
         with open(pathin) as file:
