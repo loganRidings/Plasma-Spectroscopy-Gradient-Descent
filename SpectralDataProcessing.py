@@ -46,7 +46,7 @@ class DataProcessing:
         if not __name__== '__main__':
             plt.close('all')
             
-    def setPath(self,path=r"C:\Users\lridings\Documents\Python Scripts\notebook_mats\test_data.csv"):
+    def setPath(self,path="test_data.csv"):
         """
         Set path to data file. Defaults to condition testing data.
         """
