@@ -7,7 +7,7 @@ This project was created to add another layer of quantification to the character
 The notebook will walk you through the experimental process, basic background, and strategies used.  
 - [Jupyter Notebook](Spectroscopy%Gradient%Descent.ipynb)
   
-After seeing how the process works, feel free to look through the source code or try your own characterization strategies using the data. If you have any ideas on how to improve on the groundwork I lay out here, I would be interested to hear your ideas!
+After seeing how the process works, feel free to look through the source code or try your own characterization strategies using the data. If you have any ideas on how to improve on the groundwork I lay out here, I'm open to suggestions.
 #### Most Useful Source Code:
 - [Gradient Descent Algos](SpectrumFitting.py)  
 - [Visualization Tools](GradVisualization.py)  
